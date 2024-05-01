@@ -1,0 +1,6 @@
+/weatherpy.iml
+/.idea/
+/.venv/
+api/__pycache__/
+tests/__pycache__/
+tests/http-client.private.env.json
